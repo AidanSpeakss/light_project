@@ -15,6 +15,6 @@ I am using a rasberry pi 3 and the same microcontrollers this article recommends
 - Step 1: Use my equipment to turn my lights on and off
 - Step 2: Create an application that lets me turn the lights on and off through a website
 - Step 3: Add an interface to change the brightness of a light.
-- Step 4: Add an option to enables dynamic flux-like lighting and add an algorithm to do this.
+- Step 4: Add an option to enable flux-like lighting and add a function that replicates flux.
 - Step 5: Add a component that lets the user adjust the dynamic-lighting patern based on when they go to sleep and when they wake up.
 - Step 6: Test, bugfixes, and polish.
